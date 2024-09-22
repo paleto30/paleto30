@@ -60,6 +60,8 @@ Un sistema robusto para la gestión de facturas electrónicas a la DIAN, con car
 ### [Proyecto 2: Prototipo de sistema para gestion de habilitaciones de materias para las Unidades Tecnológicas de Santander(UTS)](https://github.com/paleto30/api-gestion-tareas)
 Un sistema desarrollado para facilitar el proceso de solicitud de habilitaciones para los estudiantes y del mismo modo para control y automaticacion del correspondiente proceso academico con relacion a este derecho estudiantil.
 
+### [Proyecto 3: Practica de consumo de API de peliculas](https://github.com/paleto30/promise)
+Es una practica de consumo de API desde el frontend, usando html, css y javascript, haciendo uso de Workers, y tecnicas de optimizacion de renderizado. [ver proyecto](https://paleto30.github.io/promise/frontend/).  
 ---
 
 ## 🌱 Siempre Aprendiendo
