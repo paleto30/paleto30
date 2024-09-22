@@ -62,6 +62,8 @@ Un sistema desarrollado para facilitar el proceso de solicitud de habilitaciones
 
 ### [Proyecto 3: Practica de consumo de API de peliculas](https://github.com/paleto30/promise)
 Es una practica de consumo de API desde el frontend, usando html, css y javascript, haciendo uso de Workers, y tecnicas de optimizacion de renderizado. [ver proyecto](https://paleto30.github.io/promise/frontend/).  
+![image](https://github.com/user-attachments/assets/d9dab0f8-c2dd-40c9-abaf-cd090dbf8cc7)
+
 ---
 
 ## 🌱 Siempre Aprendiendo
