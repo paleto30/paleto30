@@ -11,7 +11,7 @@
 
 ## 🌟 Sobre mí
 
-¡Hola! Soy **Andrés Galvis**, desarrollador backend, especialmente en el desarrollo web con Node.js, Nestjs, Express, JavaScript y TypeScript. Tengo una sólida experiencia trabajando API RESTful con bases de datos NoSQL y SQL. Mi objetivo es crear soluciones eficientes y escalables que proporcionen un resultado positivo en los proyectos en los que participo. Siempre estoy abierto a cambios y disfruto aprender de los otros desarrolladores.
+¡Hola! Soy **Andrés Galvis**, desarrollador backend, especialmente en el desarrollo web con tecnologías como Node.js, Nestjs, Express, JavaScript y TypeScript. Tengo una sólida experiencia trabajando API RESTful con bases de datos NoSQL y SQL. Mi objetivo es crear soluciones eficientes y escalables que proporcionen un resultado positivo en los proyectos en los que participo. Siempre estoy abierto a cambios y disfruto aprender de los otros desarrolladores.
 ---
 
 ## 🚀 Habilidades Técnicas
