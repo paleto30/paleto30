@@ -6,7 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Galvis-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-felipe-galvis-pereira-b57607272/)
 [![Email](https://img.shields.io/badge/Email-afgalvispereira@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:afgalvispereira@gmail.com)
 
-Language: [English](#english)
+<a id="español"></a>
+
+Español · [English](#english)
 
 ---
 
@@ -96,7 +98,11 @@ y reemplaza la URL base:
 
 ---
 
+<a id="english"></a>
+
 ## English
+
+Español ([volver](#español)) · English
 
 **Andrés Felipe Galvis Pereira** — Backend Software Engineer (Node.js / NestJS). Systems Engineering student, final semester.
 
