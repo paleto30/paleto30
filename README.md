@@ -1,93 +1,111 @@
-# 💻  Andrés Galvis | @paleto30
+# Andrés Felipe Galvis Pereira
 
-[![GitHub Badge](https://img.shields.io/badge/-paleto30-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/paleto30)](https://github.com/paleto30)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9s-felipe-galvis-pereira-b57607272/)](https://www.linkedin.com/in/andr%C3%A9s-felipe-galvis-pereira-b57607272/)
+**Ingeniería de Sistemas** (décimo semestre) · Backend Engineer Node.js/NestJS · Fintech, Web3 y facturación electrónica
 
+[![GitHub](https://img.shields.io/badge/GitHub-paleto30-black?style=flat-square&logo=github&logoColor=white)](https://github.com/paleto30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Galvis-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-felipe-galvis-pereira-b57607272/)
+[![Email](https://img.shields.io/badge/Email-afgalvispereira@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:afgalvispereira@gmail.com)
 
-
-![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
----
-
-## 🌟 Sobre mí
-
-¡Hola! Soy **Andrés Galvis**, desarrollador backend, especialmente en el desarrollo web con tecnologías como Node.js, Nestjs, Express, JavaScript y TypeScript. Tengo una sólida experiencia trabajando API RESTful con bases de datos NoSQL y SQL. Mi objetivo es crear soluciones eficientes y escalables que proporcionen un resultado positivo en los proyectos en los que participo. Siempre estoy abierto a cambios y disfruto aprender de los otros desarrolladores.
----
-
-## 🚀 Habilidades Técnicas
-
-- **Lenguajes de Programación:**
-  - <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" style="border-radius: 5px;"/>
-   - <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="border-radius: 5px;"/>
-    
-- **Frameworks y Librerías:**
-   - <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" style="border-radius: 5px;"/>
-  
-- **Bases de Datos:**
-  - <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 5px;"/>
-
-- **Herramientas y Tecnologías:**
-  - <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-RESTful%20APIs-333333?style=flat&logo=api&logoColor=white" alt="RESTful APIs" style="border-radius: 5px;"/>
-  - <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" style="border-radius: 5px;"/>
+Language: [English](#english)
 
 ---
 
-## 📈 Estadísticas de GitHub
+## Sobre mí
 
-![paleto30's GitHub stats](https://github-readme-stats.vercel.app/api?username=paleto30&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paleto30&count_private=true&layout=compact&theme=tokyonight)
-
----
-
-## 🛠️ Proyectos Destacados
-
-### [Proyecto 1: Plataforma de reportes fiscales para tributacion de Empresas colombianas ante la DIAN](https://github.com/optimunsoft/erp-api)
-Un sistema robusto para la gestión de facturas electrónicas a la DIAN, con características como envio de facturas, envío automático a clientes, eventos de recepción a facturas de compra, descarga de zip con los archivos legales correspondientes, reenvio de documentos a los clientes a travez de servicios de correo y almacenamiento seguro en bases de datos. Persistencia de archivos por 5 años en S3 aws.
-
-### [Proyecto 2: Prototipo de sistema para gestion de habilitaciones de materias para las Unidades Tecnológicas de Santander(UTS)](https://github.com/paleto30/api-gestion-tareas)
-Un sistema desarrollado para facilitar el proceso de solicitud de habilitaciones para los estudiantes y del mismo modo para control y automaticacion del correspondiente proceso academico con relacion a este derecho estudiantil.
-
-### [Proyecto 3: Practica de consumo de API de peliculas](https://github.com/paleto30/promise)
-Es una practica de consumo de API desde el frontend, usando html, css y javascript, haciendo uso de Workers, y tecnicas de optimizacion de renderizado. [ver proyecto](https://paleto30.github.io/promise/frontend/).  
-![image](https://github.com/user-attachments/assets/d9dab0f8-c2dd-40c9-abaf-cd090dbf8cc7)
+Ingeniero backend con 3 años de experiencia construyendo sistemas en producción en fintech, Web3 y facturación electrónica. Especializado en TypeScript y Node.js con NestJS, con experiencia productiva también en Java/Spring Boot y Python. Trabajo con foco en arquitectura limpia, SOLID y APIs RESTful que sostienen volumen real de operación: más de 7,000 facturas electrónicas diarias integradas con la DIAN, verificación de identidad KYC con Sumsub y pipelines de agregación para analítica global por país. Tecnólogo en Desarrollo de Sistemas Informáticos (titulado), cursando Ingeniería de Sistemas (décimo semestre).
 
 ---
 
-## 🌱 Siempre Aprendiendo
+## Lo que he construido
 
-Me apasiona seguir aprendiendo y manteniéndome al día con las últimas tecnologías y tendencias en el desarrollo web. Actualmente, estoy explorando:
-
-- Desarrollo con microservicios
-- Servicios de AWS
-- Principios SOLID
-- Patrones de Diseño
+- **Plataforma de facturación electrónica** · Optimunsoft Col S.A.S. (08/2023 – 12/2024): APIs en Node.js y Java (Express, NestJS, Spring Boot) para emisión, radicación y envío automático de facturas electrónicas ante la DIAN, con más de **7,000 facturas procesadas diarias** y conservación documental por 5 años en AWS S3 por requisito legal.
+- **Integración KYC y gestión de riesgo** · Jobchain S.L. (02/2025 – 02/2026): integración de verificación de identidad multinivel con Sumsub y diseño de un sistema de evaluación de riesgo y detección de transacciones sospechosas basado en eventos.
+- **Analítica global en Web3** · Jobchain S.L.: pipelines de agregación de datos para métricas globales y por país, liderando la refactorización de los módulos de ingesta.
 
 ---
 
-## 📫 Contacto
+## Stack técnico
 
-- **Correo Electrónico:** afgalvispereira@gmail.com
-- **LinkedIn:** [linkedin.com/in/Andres](https://www.linkedin.com/in/andr%C3%A9s-felipe-galvis-pereira-b57607272/))
-- **Instagram:** [@paleto30](https://twitter.com/paleto30)
+**Principal**
+
+`TypeScript` `JavaScript` `Node.js` `NestJS` `Express` `APIs RESTful`
+
+**Secundario, con experiencia productiva**
+
+`Java` `Spring Boot` `Python` `FastAPI`
+
+**Full stack puntual**
+
+`Laravel` `Vue.js`
+
+**Datos, mensajería e infraestructura**
+
+`PostgreSQL` `MySQL` `MongoDB` `RabbitMQ` `AWS (S3)` `Docker` `Linux`
+
+**Prácticas de ingeniería e IA**
+
+`Arquitectura limpia` `SOLID` `Patrones de diseño` `Testing con Jest` `Git` `Agentes de código con IA (OpenCode)`
 
 ---
 
-## 📝 Licencia
+## Proyectos destacados
 
-Este repositorio está bajo la Licencia MIT. Mira el archivo [LICENSE](LICENSE) para más detalles.
+### [impactwave — Análisis de blast radius para TypeScript/JavaScript](https://github.com/paleto30/impactwave)
+
+CLI publicada en npm que analiza los cambios de Git antes del merge y responde una pregunta: *¿qué puedo romper con este cambio y qué debería probar?* Detecta símbolos modificados vía AST (ts-morph), calcula el blast radius sobre el grafo de dependencias, mide la cobertura de impacto y asigna un risk score determinístico 0–100 con razones explicables. Decisión técnica clave: análisis por AST en lugar de diff textual, para contar solo lo que el cambio tocó físicamente. Proyecto activo y en evolución.
+
+### [erp-api — Reportes fiscales para tributación ante la DIAN](https://github.com/optimunsoft/erp-api)
+
+Backend de facturación electrónica para empresas colombianas: emisión y envío automático de facturas a clientes, gestión de eventos de recepción de facturas de compra y descarga de los paquetes legales correspondientes. La plataforma procesa más de 7,000 facturas diarias; los documentos se conservan 5 años en AWS S3 para cumplir el requisito legal de retención. *(Repositorio organizacional de Optimunsoft · producto en producción: [Zoenube — Facturación electrónica](https://www.zoenube.com/facturacion-electronica/))*
+
+### [api-gestion-tareas — Habilitaciones académicas UTS](https://github.com/paleto30/api-gestion-tareas)
+
+Sistema de solicitud y control de habilitaciones de materias para estudiantes de las Unidades Tecnológicas de Santander: digitaliza y automatiza un flujo académico que antes se gestionaba manualmente.
+
+### [promise — Consumo de APIs desde el frontend](https://github.com/paleto30/promise)
+
+Proyecto de práctica: consumo de una API pública de películas con HTML, CSS y JavaScript, usando Web Workers y técnicas de optimización de renderizado. [Ver demo](https://paleto30.github.io/promise/frontend/)
 
 ---
 
-¡Gracias por visitar mi perfil de GitHub! 😊
+<!--
+Las cards de github-readme-stats se retiraron: la instancia pública de Vercel
+responde 503 (DEPLOYMENT_PAUSED), verificado en agosto de 2026.
+Para restaurarlas, despliega tu propia instancia (github.com/anuraghazra/github-readme-stats)
+y reemplaza la URL base:
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=paleto30&show_icons=true&theme=tokyonight)
+![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=paleto30&layout=compact&theme=tokyonight)
+-->
+
+---
+
+## Actualmente
+
+- Desarrollando [impactwave](https://github.com/paleto30/impactwave), CLI de análisis de blast radius y riesgo arquitectónico para proyectos TypeScript/JavaScript.
+- Profundizando en arquitectura de software: SOLID, patrones de diseño y diseño dirigido por eventos, sobre la base del sistema de detección de transacciones sospechosas que diseñé en Jobchain.
+- Fortaleciendo pruebas automatizadas con Jest en servicios Node.js.
+- Culminando Ingeniería de Sistemas (décimo semestre).
+
+---
+
+## Contacto
+
+- **Correo:** afgalvispereira@gmail.com
+- **LinkedIn:** [andrés-felipe-galvis-pereira](https://www.linkedin.com/in/andr%C3%A9s-felipe-galvis-pereira-b57607272/)
+
+---
+
+## English
+
+**Andrés Felipe Galvis Pereira** — Backend Software Engineer (Node.js / NestJS). Systems Engineering student, final semester.
+
+I have 3 years of experience building backend systems in production for fintech, Web3, and e-invoicing companies in Colombia.
+
+- At **Optimunsoft**, I built APIs with Node.js and Java/Spring Boot for electronic invoicing integrated with the DIAN (Colombian tax authority). The platform processes more than **7,000 invoices per day**.
+- At **Jobchain** (Web3), I integrated KYC verification with Sumsub and designed an event-based system to detect suspicious transactions.
+- I am building [impactwave](https://github.com/paleto30/impactwave), a CLI tool that analyzes code changes before merge and calculates blast radius with AST analysis.
+
+Main stack: TypeScript, Node.js, NestJS. Also: Java, Spring Boot, Python, PostgreSQL, MongoDB, AWS.
+
+Contact: afgalvispereira@gmail.com
