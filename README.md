@@ -21,9 +21,9 @@ Ingeniero backend con 3 años de experiencia construyendo sistemas en producció
 ## Lo que he construido
 
 - **[impactwave](https://github.com/paleto30/impactwave)** · proyecto personal (2026): paquete npm publicable con `npx impactwave` — CLI que analiza los cambios de Git antes del merge y calcula el blast radius vía AST (ts-morph), la cobertura de impacto y un risk score determinístico 0–100 con razones explicables.
-- **Plataforma de facturación electrónica** · Optimunsoft Col S.A.S. (08/2023 – 12/2024): APIs en Node.js y Java (Express, NestJS, Spring Boot) para emisión, radicación y envío automático de facturas electrónicas ante la DIAN, con más de **7,000 facturas procesadas diarias** y conservación documental por 5 años en AWS S3 por requisito legal.
-- **Integración KYC y gestión de riesgo** · Jobchain S.L. (02/2025 – 02/2026): integración de verificación de identidad multinivel con Sumsub y diseño de un sistema de evaluación de riesgo y detección de transacciones sospechosas basado en eventos.
-- **Analítica global en Web3** · Jobchain S.L.: pipelines de agregación de datos para métricas globales y por país, liderando la refactorización de los módulos de ingesta.
+- **[Plataforma de facturación electrónica](https://www.zoenube.com/facturacion-electronica/)** · Optimunsoft Col S.A.S. (08/2023 – 12/2024): APIs en Node.js y Java (Express, NestJS, Spring Boot) para emisión, radicación y envío automático de facturas electrónicas ante la DIAN, con más de **7,000 facturas procesadas diarias** y conservación documental por 5 años en AWS S3 por requisito legal.
+- **Integración KYC y gestión de riesgo** · [Jobchain S.L.](https://www.jobchain.com/) (02/2025 – 02/2026): integración de verificación de identidad multinivel con Sumsub y diseño de un sistema de evaluación de riesgo y detección de transacciones sospechosas basado en eventos.
+- **Analítica global en Web3** · [Jobchain S.L.](https://www.jobchain.com/): pipelines de agregación de datos para métricas globales y por país, liderando la refactorización de los módulos de ingesta.
 
 ---
 
